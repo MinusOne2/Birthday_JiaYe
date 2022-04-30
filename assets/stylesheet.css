@@ -1086,7 +1086,7 @@ audio {
 	background-size: 100px 183px;
 }
 .balloons h2 {
-	text-transform: uppercase;
+	text-transform: none;
 	font-family: 'SimSun';
 	font-size: 50px;
 	color: #BF4136;
@@ -1274,7 +1274,7 @@ audio {
 .message p {
 	font-family: 'SimSun';
 	font-size: 26px;
-	text-transform: uppercase;
+	text-transform: none;
 	color: #f4f0f4;
 	/* text-shadow: 2px 2px 2px rgb(204, 169, 245); */
 	display: none;
@@ -1293,7 +1293,7 @@ audio {
 .btn-primary {
         border-color: #466baf;
         padding: 20px;
-        text-transform: uppercase;
+        text-transform: none ;
         font-family: 'SimSun';
         font-weight: 700;
         color: #fff;
